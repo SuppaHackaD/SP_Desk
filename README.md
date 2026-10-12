@@ -50,6 +50,7 @@ O comando `adb reverse` permite acessar o servidor do computador pelo dispositiv
 
 ## Observações
 
+* É necessario usar um ghost HDMI
 * A porta padrão da aplicação é 5000.
 * As métricas de GPU dependem da disponibilidade de ferramentas e drivers compatíveis.
 * A aplicação não possui autenticação implementada. Utilize apenas em ambientes confiáveis e não exponha o servidor diretamente à internet.
