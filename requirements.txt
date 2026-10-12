@@ -1,0 +1,8 @@
+Flask 
+flask-sock
+opencv-python
+numpy
+mss
+PyAutoGUI
+psutil
+GPUtil
